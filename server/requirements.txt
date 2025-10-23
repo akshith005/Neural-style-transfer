@@ -1,0 +1,6 @@
+flask
+werkzeug
+torch
+torchvision
+Pillow
+matplotlib
